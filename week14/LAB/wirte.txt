@@ -1,0 +1,6 @@
+Name: A
+Age: 112
+Matric Marks: 123
+FSC Marks: 123
+ECAT Marks: 123
+-------------------------
